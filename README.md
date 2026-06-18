@@ -76,7 +76,7 @@ Customers type their unique ID (e.g., `64572df8`) anywhere in the chat. The Groq
 - Add human‑in‑the‑loop approval for high‑risk cases.
 
 ## Demo Video
-[Loom link will be added after recording]
+https://vimeo.com/1202366907?share=copy&fl=sv&fe=ci
 
 ## Author
 **Ishan Dubey**  
